@@ -11,3 +11,10 @@ La ingeniería social es una técnica de manipulación psicológica que se basa 
 - No nos gusta decir que no.
 - A todos nos gusta que nos alaben.
 - Obtener información es más fácil de lo que parece.
+
+## Ciclo de Ataque
+
+- Recolección de información.
+- Desarrollo de la relación.
+- Explotación de la relación.
+- Ejecuccion para lograr el objetivo.
